@@ -2,7 +2,6 @@
 
 👋 Hi there! I'm a software engineer focused on building scalable solutions and optimizing business processes. I thrive on developing robust and efficient systems that deliver value.
 
-Feel free to check out some of my work below.
 ***
 ## Technical Skills
 - Programming Languages & Frameworks: JavaScript, TypeScript, PHP, Bash, Python, SQL, PostgreSQL, Next.js, Node.js, React, React Native, jQuery, Wordpress, Tailwind CSS, GraphQL
