@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ravi Both | Software Engineer
 
-<!--
-**raviboth/raviboth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm a software engineer focused on building scalable solutions and optimizing business processes. I thrive on developing robust and efficient systems that deliver value.
 
-Here are some ideas to get you started:
+Feel free to check out some of my work below.
+***
+## Technical Skills
+- Programming Languages & Frameworks: JavaScript, TypeScript, PHP, Bash, Python, SQL, PostgreSQL, Next.js, Node.js, React, React Native, jQuery, Wordpress, Tailwind CSS, GraphQL
+- Developer Tools & DevOps: AWS, Google Cloud, Git, CI/CD, Docker, Linux system administration, Sentry, Storybook, Cypress, Jest, Adobe Creative Cloud, MS Office, Figma, Jira, Prisma
+- CMS, CRM, & Marketing: HubSpot, Prismic, Mandrill/Mailchimp, Constant Contact, Squarespace, WooCommerce
+- Emerging Technologies: Prompt engineering, LLM integration, IoT/smart home technology
+- Languages: Native fluency in English and Dutch, and strong proficiency in German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to connecting with fellow engineers and professionals. Feel free to reach out to me via email at ravi@raviboth.com.
